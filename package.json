@@ -1,0 +1,32 @@
+{
+  "name": "hexo-deployer-cos",
+  "version": "0.1.0",
+  "description": "Tencent Cloud Object Storage (COS) plugin of Hexo",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdlzhd/hexo-deployer-cos.git"
+  },
+  "keywords": [
+    "hexo",
+    "git",
+    "deploy",
+    "deployer",
+    "cos"
+  ],
+  "author": "dongdong",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sdlzhd/hexo-deployer-cos/issues"
+  },
+  "homepage": "https://github.com/sdlzhd/hexo-deployer-cos#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chalk": "^2.1.0",
+    "cos-nodejs-sdk-v5": "^2.0.8",
+    "hexo-fs": "^0.2.1"
+  }
+}
