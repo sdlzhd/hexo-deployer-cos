@@ -8,8 +8,6 @@ COS is one of the best static blog hosting platforms, you can enable CDN and con
 
 *hexo-deployer-cos* allows you to publish your Hexo blog directly using commands `hexo d`.
 
-
-
 ## Installation
 
 >$ npm install hexo-deployer-cos --save
