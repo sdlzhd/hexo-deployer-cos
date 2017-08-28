@@ -28,5 +28,9 @@
     "chalk": "^2.1.0",
     "cos-nodejs-sdk-v5": "^2.0.8",
     "hexo-fs": "^0.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-google": "^0.9.1"
   }
 }
