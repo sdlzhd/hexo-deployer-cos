@@ -25,11 +25,11 @@
   "homepage": "https://github.com/sdlzhd/hexo-deployer-cos#readme",
   "dependencies": {
     "chalk": "^2.1.0",
-    "cos-nodejs-sdk-v5": "^2.0.8",
+    "cos-nodejs-sdk-v5": "^2.0.9",
     "hexo-fs": "^0.2.1"
   },
   "devDependencies": {
-    "eslint": "^4.5.0",
+    "eslint": "^4.6.0",
     "eslint-config-google": "^0.9.1"
   }
 }
