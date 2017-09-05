@@ -28,6 +28,17 @@ deploy:
 
 You can get the AppId, SecretId, SecretKey on your Tencent Cloud Console.
 
+## Release Notes
+
+Improved:
+1. The number of uploaded files has been optimized
+2. Better output
+
+Terrible:
+1. This has a problem with the output of the 'Deploy done: cos'
+2. Callback hell
+
+
 ## Opinions and suggestions
 
 You can commit your opinions and suggestions to Issues, or send mail to [hexo-deployer-cos@zhendong.li](mailto:hexo-deployer-cos@zhendong.li).
