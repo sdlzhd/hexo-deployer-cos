@@ -30,13 +30,11 @@ You can get the AppId, SecretId, SecretKey on your Tencent Cloud Console.
 
 ## Release Notes
 
-Improved:
-1. The number of uploaded files has been optimized
-2. Better output
+1. repair Bug
 
-Terrible:
-1. This has a problem with the output of the 'Deploy done: cos'
-2. Callback hell
+    1.1 Upload failed when the file in COS was empty
+
+2. Optimize upload logic
 
 
 ## Opinions and suggestions
