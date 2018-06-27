@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-cos",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Tencent Cloud Object Storage (COS) plugin of Hexo",
   "main": "index",
   "scripts": {
@@ -24,12 +24,16 @@
   },
   "homepage": "https://github.com/sdlzhd/hexo-deployer-cos#readme",
   "dependencies": {
-    "chalk": "^2.1.0",
-    "cos-nodejs-sdk-v5": "^2.0.12",
-    "hexo-fs": "^0.2.2"
+    "chalk": "^2.4.1",
+    "cos-nodejs-sdk-v5": "^2.4.3",
+    "hexo-fs": "^0.2.3"
   },
   "devDependencies": {
-    "eslint": "^4.7.2",
-    "eslint-config-google": "^0.9.1"
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
   }
 }
