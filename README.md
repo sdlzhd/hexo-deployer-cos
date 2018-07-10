@@ -19,10 +19,9 @@ You must configure in _config.yml as follows:
 ```yaml
 deploy: 
   type: cos
-  appId: yourAppId
   secretId: yourSecretId
   secretKey: yourSecretKey
-  bucket: yourBucketName
+  bucket: yourBucketName-AppId
   region: yourRegion
 ```
 
