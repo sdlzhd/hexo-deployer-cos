@@ -1,3 +1,5 @@
+# UPDATING... WILL SOON BE COMPLETION!
+
 # hexo-deployer-cos
 
 Tencent Cloud Object Storage (COS) plugin of Hexo
@@ -38,7 +40,7 @@ You can get the AppId, SecretId, SecretKey on your Tencent Cloud Console.
 
 ## Opinions and suggestions
 
-You can commit your opinions and suggestions to Issues, or send mail to [hexo-deployer-cos@zhendong.li](mailto:hexo-deployer-cos@zhendong.li).
+You can commit your opinions and suggestions to Issues, or send mail to [dongdong@moojo.top](mailto:dongdong@moojo.top).
 
 ## License
 
