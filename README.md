@@ -19,28 +19,21 @@ COS is one of the best static blog hosting platforms, you can enable CDN and con
 You must configure in _config.yml as follows:
 
 ```yaml
-deploy: 
+deploy:
   type: cos
   secretId: yourSecretId
   secretKey: yourSecretKey
-  bucket: yourBucketName-AppId
+  bucket: yourBucket
   region: yourRegion
 ```
 
-You can get the AppId, SecretId, SecretKey on your Tencent Cloud Console.
+You can get this information from your Tencent Cloud Console.
 
 ## Release Notes
 
-1. repair Bug
+## Opinions & Suggestions
 
-    1.1 Upload failed when the file in COS was empty
-
-2. Optimize upload logic
-
-
-## Opinions and suggestions
-
-You can commit your opinions and suggestions to Issues, or send mail to [dongdong@moojo.top](mailto:dongdong@moojo.top).
+You can commit your opinions and suggestions to Issues, or send mail to [sdlzhd@vip.qq.com](mailto:sdlzhd@vip.qq.com).
 
 ## License
 
