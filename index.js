@@ -1,3 +1,3 @@
-'use strict';
+'use strict'
 
-hexo.extend.deployer.register('cos', require('./lib/deployer'));
+hexo.extend.deployer.register('cos', require('./lib/deployer'))

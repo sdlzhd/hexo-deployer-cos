@@ -12,7 +12,7 @@ COS is one of the best static blog hosting platforms, you can enable CDN and con
 
 ## Installation
 
->$ npm install hexo-deployer-cos --save
+> $ npm install hexo-deployer-cos --save
 
 ## Options
 
@@ -25,6 +25,10 @@ deploy:
   secretKey: yourSecretKey
   bucket: yourBucket
   region: yourRegion
+  root: root #
+  exclude: # 上传会以本地文件为准
+    - a
+    - b
 ```
 
 You can get this information from your Tencent Cloud Console.
