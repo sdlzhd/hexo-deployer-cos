@@ -25,19 +25,18 @@ deploy:
   secretKey: yourSecretKey
   bucket: yourBucket
   region: yourRegion
-  root: root #
-  exclude: # 上传会以本地文件为准
-    - a
-    - b
 ```
 
 You can get this information from your Tencent Cloud Console.
+
+Go to the [COS Object Storage Console](https://console.cloud.tencent.com/cos5) Create a bucket and get the Bucket (Bucket Name) and [Region](https://cloud.tencent.com/document/product/436/6224) (Region Name).
+Go to [Key Management Console](https://console.cloud.tencent.com/capi) Get your project SecretId and SecretKey.
 
 ## Release Notes
 
 ## Opinions & Suggestions
 
-You can commit your opinions and suggestions to Issues, or send mail to [sdlzhd@vip.qq.com](mailto:sdlzhd@vip.qq.com).
+You can commit your opinions and suggestions to Issues, or send mail to [sdlzhd@outlook.com](mailto:sdlzhd@outlook.com).
 
 ## License
 
