@@ -1,5 +1,3 @@
-# UPDATING... WILL SOON BE COMPLETION!
-
 # hexo-deployer-cos
 
 Tencent Cloud Object Storage (COS) plugin of Hexo
