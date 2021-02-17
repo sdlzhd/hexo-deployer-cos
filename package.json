@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-cos",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Tencent Cloud Object Storage (COS) plugin of Hexo",
   "main": "index",
   "scripts": {
